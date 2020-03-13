@@ -1,5 +1,7 @@
 # vuex-integration
 
+Application to request API test for show in the dashborad e interective.
+
 ## Project setup
 ```
 npm install
